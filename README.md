@@ -16,7 +16,7 @@ Technologies I'm familiar with are:
 - PostgreSQL
 - Git
 
-I'm currently looking to contribute my skills to a team where I can prove my front-end skills while growing in my capabilities. If you are looking for a competent, goal-oriented developer, let's have a chat here on LinkedIn or send me an email via enock.addey@gmail.com.
+I'm currently looking to contribute my skills to a team where I can prove my front-end skills while growing in my capabilities. If you are looking for a competent, goal-oriented developer, kindly send me an email via enock.addey@gmail.com.
 
 <!--
 **Nocks/Nocks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
