@@ -10,7 +10,7 @@ Technologies I'm familiar with are:
 
 - Python/Django
 - HTML
-- CSS
+- CSS/SCSS
 - Javascript/ES6
 - React
 - PostgreSQL
