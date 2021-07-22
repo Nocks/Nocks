@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a diligent self-taught developer with 3+ years of experience and proven knowledge of software development, with a passion for Python and front-end web development. Aiming to leverage my skills in a world-class software development team.
+I'm a diligent self-taught developer with years of experience and proven knowledge of software development, with a passion for Python and front-end web development. Aiming to leverage my skills in a world-class software development team.
 
 I have worked on small to medium-scale projects both on the front-end and back-end as a remote freelance developer. However, I've developed more love for front-end stuff.
 
