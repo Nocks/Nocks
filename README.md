@@ -12,7 +12,6 @@ Technologies I'm familiar with are:
 - HTML
 - CSS/SCSS
 - Javascript/ES6
-- React
 - PostgreSQL
 - Git
 
