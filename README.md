@@ -14,6 +14,8 @@ Technologies I'm familiar with are:
 - Javascript/ES6
 - PostgreSQL
 - Git
+- PHP
+- Drupal
 
 I'm currently looking to contribute my skills to a team where I can prove my front-end skills while growing in my capabilities. If you are looking for a competent, goal-oriented developer, kindly send me an email via enock.addey@gmail.com.
 
